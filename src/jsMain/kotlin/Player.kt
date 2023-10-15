@@ -138,6 +138,7 @@ val Player = FC<PlayerProps> { props ->
                         controls = true
                         width = "100%"
                         height = "56px"
+                        playing = true
                     }
                 }
             }
